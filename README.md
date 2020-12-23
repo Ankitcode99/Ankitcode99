@@ -38,6 +38,10 @@
 </table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=Ankitcode99&theme=radical&hide=issues" alt="Ankitcode99" /></p>
+<br>
+<br>
+
+<img height="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankitcode99&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 
 
 <h3 align="left">Connect with me:</h3>
