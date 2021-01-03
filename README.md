@@ -18,19 +18,19 @@
 <tbody>
   <tr>
   	<td width="25%" align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/> </a></td>
-    <td width="25%" align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="55px"/> </a> </td>
+    <td width="25%" align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://icon-library.com/images/icon-java/icon-java-6.jpg" alt="java" height="55px"/> </a> </td>
     <td width="25%" align="center"> <a href="https://kotlinlang.org/" target="_blank"> <img height="55px" src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg"/> </a> </td>
-    <td width="25%" align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="55px"/> </a> </td>
+    <td width="25%" align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" height="55px"/> </a> </td>
   </tr>
   <tr>
-  	<td width="25%" align="center"><a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="64px"/> </a></td>
+  	<td width="25%" align="center"><a href="https://www.mongodb.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="mongodb" height="64px"/> </a></td>
     <td width="25%" align="center"><a href="https://expressjs.com" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="express" height="55px"/> </a></td>
-    <td width="25%" align="center"><a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" height="55px"/> </a></td>
+    <td width="25%" align="center"><a href="https://reactjs.org/" target="_blank"> <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" alt="react" height="55px"/> </a></td>
     <td width="25%" align="center"><a href="https://nodejs.org" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="nodejs" height="55px"/> </a></td>
   </tr>
   <tr>
-  	<td width="25%" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="55px"/> </a></td>
-    <td width="25%" align="center"><a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="55px"/> </a></td>
+  	<td width="25%" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="javascript" height="55px"/> </a></td>
+    <td width="25%" align="center"><a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" height="55px"/> </a></td>
     <td width="25%" align="center"><a href="https://graphql.org/" target="_blank"> <img src="http://graphql.org/img/logo.svg" alt="GraphQL" height="55px"/> </a></td>
     <td width="25%" align="center"><a href="https://www.apollographql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg" alt="GraphQL" height="55px"/> </a></td>
   </tr>
