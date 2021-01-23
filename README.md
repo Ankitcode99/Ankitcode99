@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Microservices Architecture**
 
-- 🌱 I’m currently learning **Flask and Docker**
+- 🌱 I’m currently learning **Redux and GraphQL**
 
 - 💬 Ask me about **anything (related to code 😁)**
 
