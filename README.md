@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<img height="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankitcode99&layout=compact&theme=vue-dark" />
+<img height="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankitcode99&theme=vue-dark" />
 
 
 <h3 align="left">Connect with me:</h3>
