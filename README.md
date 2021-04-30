@@ -19,7 +19,7 @@
   <tr>
   	<td width="25%" align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/> </a></td>
     <td width="25%" align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://icon-library.com/images/icon-java/icon-java-6.jpg" alt="java" height="55px"/> </a> </td>
-    <td width="25%" align="center"> <a href="https://kotlinlang.org/" target="_blank"> <img height="55px" src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg"/> </a> </td>
+    <td width="25%" align="center"> <a href="https://kotlinlang.org/" target="_blank"> <img height="55px" src="https://bugfender.com/wp-content/uploads/2017/06/kotlin-featured.png"/> </a> </td>
     <td width="25%" align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" height="55px"/> </a> </td>
   </tr>
   <tr>
